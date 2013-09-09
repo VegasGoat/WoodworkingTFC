@@ -1,0 +1,16 @@
+[
+{
+  "modid" : "WoodworkingTFC",
+  "name" : "Woodworking for TFC",
+  "version" : "0.6.0",
+  "url" : "www.goatsoft.com/minecraft",
+  "authors": [
+    "VegasGoat"
+  ],
+  "description": "Adds woodworking to TerraFirmaCraft for wooden items. Includes a wooden club weapon.",
+  "logoFile" : "/mods/VegasGoatTFC/gslogo.png",
+  "dependencies": [
+    "TerraFirmaCraft"
+  ]
+}
+]
